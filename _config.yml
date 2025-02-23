@@ -1,4 +1,4 @@
-name: 肖航课题组  Xiao Research Group
+name: 魔法金属  Mana Metal
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -11,12 +11,12 @@ permalink: /blog/:year/:month/:day/:title.html
 encoding: utf-8
 # Sections on the "people" page.
 roles:
-  - key: faculty
-    name: 教师 Faculty
-  - key: grad
-    name: 研究生 Graduate Students
-  - key: ugrad
-    name: 本科生 Undergraduate Students
+  - key: edit
+    name: 作者 author
+  - key: test
+    name: 测试员 tester
+  - key: plan
+    name: 策划 planer
   - key: collab
     name: 合作者 Collaborators
 
